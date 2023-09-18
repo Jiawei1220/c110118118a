@@ -20,5 +20,5 @@ alert(s)
 ```
 | Table | Are | Cool |
 | :---         |     :---:      |          ---: |
-| git status   | git status     | git status    |
+| col 3 is   | right-aligned     | $1600    |
 | git diff     | git diff       | git diff      |
