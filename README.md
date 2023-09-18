@@ -18,7 +18,7 @@ print(s)
 var s = "javascript syntax text";
 alert(s)
 ```
-| Left-aligned | Center-aligned | Right-aligned |
+| Table | Are | Cool |
 | :---         |     :---:      |          ---: |
 | git status   | git status     | git status    |
 | git diff     | git diff       | git diff      |
