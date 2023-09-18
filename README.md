@@ -8,13 +8,13 @@
 - [X] To do list 
 - [X] 2nd things
 
-```
-python
+
+```python
 s="Python HighLingts Syntax"
 print(s)
 ```
-```
-js
+
+```js
 var s = "javascript syntax text";
 alert(s)
 ```
