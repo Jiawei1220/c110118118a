@@ -21,4 +21,5 @@ alert(s)
 | Table | Are | Cool |
 | :---         |     :---:      |          ---: |
 | col 3 is   | right-aligned     | $1600    |
-| git diff     | git diff       | git diff      |
+| col 2 is   | centered     | $12    |
+| zebra stripes   | are neat     | $1    |
