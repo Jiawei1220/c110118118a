@@ -37,6 +37,8 @@ print(s)
 var s = "javascript syntax text";
 alert(s)
 ```
+[安全帽]([https://www.gdrider.com/?lang=zh-TW])
+
 | **Table** | **Are** | **Cool** |
 | --------   |     :---:      |          ---: |
 | col 3 is   | right-aligned     | $1600    |
