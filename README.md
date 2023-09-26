@@ -37,7 +37,7 @@ print(s)
 var s = "javascript syntax text";
 alert(s)
 ```
-[安全帽]([https://www.gdrider.com/?lang=zh-TW])
+[安全帽](https://www.gdrider.com/?lang=zh-TW)
 
 | **Table** | **Are** | **Cool** |
 | --------   |     :---:      |          ---: |
