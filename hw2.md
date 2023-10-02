@@ -18,6 +18,6 @@ gantt
     使用者測試   : a11 , after a9 a10 ,25d
 ```
 # PERT圖
-
+(圖片1.png)
 
 # CPM圖
