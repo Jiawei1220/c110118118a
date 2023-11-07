@@ -79,6 +79,13 @@ alert(s)
 
 [內部超連結](/blob/b3e02dd694485149543aae3362518027961a3a32/hw2.md)
 
+I get 10 times more traffic from [Google]  than from
+[Yahoo]  or [MSN] .
+
+  [Google]: http://google.com/        "Google搜尋"
+  [Yahoo]: http://search.yahoo.com/  "Yahoo 搜尋"
+  [MSN]: http://search.msn.com/    "MSN 搜尋"
+
 | **Table** | **Are** | **Cool** |
 | --------   |     :---:      |          ---: |
 | col 3 is   | right-aligned     | $1600    |
