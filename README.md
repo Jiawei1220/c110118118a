@@ -86,8 +86,11 @@ I get 10 times more traffic from [Google]  than from
   [Yahoo]: http://search.yahoo.com/  "Yahoo 搜尋"
   [MSN]: http://search.msn.com/    "MSN 搜尋"
 
-| **Table** | **Are** | **Cool** |
-| --------   |     :---:      |          ---: |
+
+
+
+| Left-Aligned | **Are** | **Cool** |
+| -------- |     :---:      |    ---: |
 | col 3 is   | right-aligned     | $1600    |
 | col 2 is   | centered     | $12    |
 | zebra stripes   | are neat     | $1    |
@@ -96,4 +99,8 @@ I get 10 times more traffic from [Google]  than from
 | :---  | :-------      | :--- |
 | *Still*  | `renders`     | **nicely**    |
 | 1   | 2     | 3    |
+
+
+
+
 
