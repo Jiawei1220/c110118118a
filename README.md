@@ -1,9 +1,35 @@
 # C110118118 陳佳維
-## C110118118
+C110118118 陳佳維
+================
+## C110118118 陳佳維
+C110118118 陳佳維
+------------------
 ### C110118118
 #### C110118118
 ##### C110118118
 ###### C110118118
+
+`
+小區塊  
+`
+
+```
+青のすみか - キタニタツヤ
+
+```
+> This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
+
+> consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
+
+> Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
+
+> Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
+> id sem consectetuer libero luctus adipiscing.
+
+---
+***
+___
+
 ![NKUST](nkust.jpg)
 - [X] To do list 
 - [X] 2nd things
@@ -15,6 +41,16 @@ Strong emphasis, aka **bold**, with **asterisks**, or __underscores__.
 Combinded emphasis with **asterisks and _underscores_**.
 
 Strikethrough uses two tildes. ~~Scratch this~~.
+
+> 新北市
+>>板橋區
+
+>>中和區
+
+> 桃園縣
+>>大溪鎮
+
+>>龜山鄉
 
 1. First order list item
 2. Another item
@@ -38,6 +74,10 @@ var s = "javascript syntax text";
 alert(s)
 ```
 [安全帽](https://www.gdrider.com/?lang=zh-TW)
+
+<https://www.gdrider.com/?lang=zh-TW>
+
+[內部超連結]()
 
 | **Table** | **Are** | **Cool** |
 | --------   |     :---:      |          ---: |
