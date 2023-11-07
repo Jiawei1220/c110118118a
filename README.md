@@ -77,7 +77,7 @@ alert(s)
 
 <https://www.gdrider.com/?lang=zh-TW>
 
-[內部超連結](/blob/b3e02dd694485149543aae3362518027961a3a32/hw2.md)
+[內部超連結](hw2.md)
 
 I get 10 times more traffic from [Google]  than from
 [Yahoo]  or [MSN] .
