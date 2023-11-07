@@ -77,7 +77,7 @@ alert(s)
 
 <https://www.gdrider.com/?lang=zh-TW>
 
-[內部超連結]()
+[內部超連結](/blob/b3e02dd694485149543aae3362518027961a3a32/hw2.md)
 
 | **Table** | **Are** | **Cool** |
 | --------   |     :---:      |          ---: |
